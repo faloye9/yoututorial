@@ -37,6 +37,7 @@ gem 'bcrypt', '~> 3.1.7'
 
 gem 'factory_girl_rails'
 gem 'faker'
+gem 'rails_12factor'
 
 
 group :development, :test do
