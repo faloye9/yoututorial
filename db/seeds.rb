@@ -6,11 +6,13 @@
 #   cities = City.create([{ name: 'Chicago' }, { name: 'Copenhagen' }])
 #   Mayor.create(name: 'Emanuel', city: cities.first)
 
-require 'factory_girl_rails'
+Topic.create([{name: 'Javascript'}, {name: 'Ruby'}, {name: 'Python'}])
 
-3.times do
-  FactoryGirl.create :topic
-end
+# require 'factory_girl_rails'
+
+# 3.times do
+#   FactoryGirl.create :topic
+# end
 
 # 10.times do
 #   FactoryGirl.create :user
