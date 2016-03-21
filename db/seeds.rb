@@ -12,22 +12,22 @@ require 'factory_girl_rails'
   FactoryGirl.create :topic
 end
 
-10.times do
-  FactoryGirl.create :user
-end
+# 10.times do
+#   FactoryGirl.create :user
+# end
 
-100.times do
-  FactoryGirl.create :curriculum
-end
+# 100.times do
+#   FactoryGirl.create :curriculum
+# end
 
-40.times do
-  FactoryGirl.create :video
-end
+# 40.times do
+#   FactoryGirl.create :video
+# end
 
-1000.times do
-  FactoryGirl.create :vote
-end
+# 1000.times do
+#   FactoryGirl.create :vote
+# end
 
-10.times do
-  FactoryGirl.create :subscription
-end
+# 10.times do
+#   FactoryGirl.create :subscription
+# end
