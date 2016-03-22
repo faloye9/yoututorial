@@ -1,0 +1,157 @@
+![yoututorial logo](https://cloud.githubusercontent.com/assets/17992804/13964571/bfef2748-f040-11e5-99f5-f0d7cac3e079.png)
+
+#WHAT IS IT?
+
+###Yoututorial is a Youtube video tutorial filter.
+
+Ever try to find a tutorial on Youtube, but instead find yourself wasting time wading through videos with the right title but wrong content?
+
+With Yoututorial, you can save your time and spare yourself the frustration.
+
+Here, you can find videos, grouped around a specific topic, into a curriculum created by other users.
+
+Unlike Youtube playlists, Yoututorial curriculums have detailed descriptions and are voted on by viewers based on any number of factors, including 
+* how much the content matches the title
+* how good the content is
+* etc.
+
+In addition Yoututorial curriculums and videos can be filtered by difficulty level and subscribed to, all on a responsive web platform.
+
+#HOW DOES IT WORK?
+
+##Select a Topic
+
+The path to a relevant tutorial begins with the Topics selector on the home page. Click and select a topic.
+
+![what is it](https://cloud.githubusercontent.com/assets/17992804/13971054/723c05de-f063-11e5-8c55-1ee33c7ab928.jpg)
+
+Upon selecting a topic, you are taken to the topic's page, listing all levels of curriculums related to that topic. This list can be filtered via the level selector at top.
+
+##Select a Curriculum
+
+![select a curr](https://cloud.githubusercontent.com/assets/17992804/13971125/f1b21952-f063-11e5-8d97-72b123e7a3f3.jpg)
+
+Curriculums are listed with the following details:
+* Title
+* Maker – _The name of the curator; the user who created the curriculum._
+* Number of Videos – _Number of videos in curriculum._
+* Description
+* Number of Upvotes – _Sum of up and down votes._
+* Level – _Difficulty level. Beginner, Intermediate, Advanced._
+
+Select a curriculum by clicking the title.
+
+##Watching a Curriculum
+
+![watch a curr](https://cloud.githubusercontent.com/assets/17992804/13971166/3c8d895c-f064-11e5-8d4f-a9cf1298d37f.jpg)
+
+Selecting a curriculum takes you to the curriculum dashboard, with the list of enclosed videos on the left and the first video loaded in the viewport on the right.
+
+Some videos will require login for viewing.
+
+To load a video, click its title in the list on the left.
+
+The title for the loaded video will be highlighted in the left panel.
+
+Posted beneath the viewport are these attributes of the loaded video:
+* Title
+* Description
+* Up/Down vote
+
+You must be logged in to vote on a video.
+
+##Signing Up
+
+![sign up](https://cloud.githubusercontent.com/assets/17992804/13971185/7438b23c-f064-11e5-816b-46328df26498.jpg)
+
+Click the Signup link in the upper right corner, to sign in.
+
+Enter these valid ceredntials, then click the Create User button:
+* First name
+* Last name
+* Email
+* Password – _Passwords must be at least six characters._
+* Password confirmation – _Re-enter your password._
+
+A Gravatar image will be attached to the account if there is one associated with the provided email.
+
+##Logging In
+
+![log in](https://cloud.githubusercontent.com/assets/17992804/13971246/dcffdd2c-f064-11e5-82b2-e459009b3110.jpg)
+
+Click the Log In link in the upper right corner.
+
+Enter your email and password.
+
+Once logged in, you are taken to your profile page, listing curriculums you have created and subscribed to.
+
+##Creating a Curriculum
+
+![create curr](https://cloud.githubusercontent.com/assets/17992804/13971272/3b1307e0-f065-11e5-81c9-cc8512645e64.jpg)
+
+You must be logged in to create a curriculum.
+
+Create a curriculum by clicking the Create a Curriculum button on your user profile page.
+
+![new curr](https://cloud.githubusercontent.com/assets/17992804/13971294/6bd44d80-f065-11e5-8838-b30a3279c7a5.jpg)
+
+On the New Curriculum page, enter these curriculum details before clicking Update Curriculum Details.
+* Title
+* Description – _Please provide as detailed a description of your curriculum as possible. Note that curriculums are intended to be created for as specific a topic as possible._
+* Level – _Select a difficulty level for your curriculum, which should contain videos with the same level._
+* Topic – _Select a curriculum topic. The currently limited selection will be soon expanded._
+
+Clicking Update Curriculum Details takes you to the Edit Curriculum page where you add the videos.
+
+![add video](https://cloud.githubusercontent.com/assets/17992804/13971365/18ab871c-f066-11e5-99f6-15c6dc5f05d9.jpg)
+
+Clicking the Add More Videos button reveals these video attribute fields:
+* URL – _Paste the URL for the Youtube video here._
+* Order – _Click to select the order of the current video in the curriculum._
+* Description – _Please provide as detailed a video as possible, indicating topics by timestamp, etc._
+* Title
+
+Clicking Add Video willadd the video to the panel on the left.
+
+When all videos have been added, click Update Curriculum Details.
+
+##Editing a Curriculum
+
+You must be logged in to edit a curriculum.
+
+![edit curr](https://cloud.githubusercontent.com/assets/17992804/13971386/3d2b068a-f066-11e5-93aa-e0e93dfb4d52.jpg)
+
+Edit a curriculum by clicking Edit on the curriculum you have created, on your user profile page.
+
+Clicking Edit takes you to the Edit Curriculum page, where you can edit curriculum details or edit videos by selecting Edit next to each video in the left panel.
+
+Remember to click Update Curriculum Details when you're finished editing.
+
+##Subscribing to a Curriculum
+
+![subscribe to curr](https://cloud.githubusercontent.com/assets/17992804/13971575/9540da56-f067-11e5-861f-cb25073b0442.jpg)
+
+You must be logged in to subscribe to a curriculum.
+
+Subscribe to a curriculum by clicking on the Creator name. You will be taken to the creator's page, where you can click Subscribe on the desired curriculum.
+
+All curriculums you subscribe to will be listed on your user profile page.
+
+You can also navigate to your profile page by clicking the Profile link in the upper right, once logged in.
+
+##Logging Out
+
+![log out](https://cloud.githubusercontent.com/assets/17992804/13971603/c0ab8876-f067-11e5-93f7-a92df6355116.jpg)
+
+Log out by selecting the Log Out link in the upper right, if you're logged in.
+
+#UPDATES IN THE WORKS
+
+Keep posted for these forthcoming enhancements:
+* __Remember Me__ – _Users will have the option to not have to log in with every visit, if the Remember Me option is checked on the Log In page._
+* __Image Upload__ – _Users will be able to upload images to display on their profile pages._
+* __Comments__ – _In addition to voting, users will be able to also comment on the quality of curriculums and videos._
+* __Delete Curriculums__ 
+* __Message Board__ – _Users will be able to discuss curriculums, videos and topics in a message board organized by topic._
+* __Creator Subscription__ – _Users will be able to also subscribe to creators, to track their other curriculums and send messages to them directly._
+* __Additional Resources__ – _Links to a variety of different topic-related resources will be added to curriculums, providing users additional learning resources._
