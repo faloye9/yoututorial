@@ -2,7 +2,7 @@
 
 #WHAT IS IT?
 
-###Yoututorial is a Youtube video tutorial filter.
+###Yoututorial is a filter for Youtube video tutorials.
 
 Ever try to find a tutorial on Youtube, but instead find yourself wasting time wading through videos with the right title but wrong content?
 
@@ -66,7 +66,7 @@ You must be logged in to vote on a video.
 
 Click the Signup link in the upper right corner, to sign in.
 
-Enter these valid ceredntials, then click the Create User button:
+Enter these valid credentials, then click the Create User button:
 * First name
 * Last name
 * Email
@@ -111,7 +111,7 @@ Clicking the Add More Videos button reveals these video attribute fields:
 * Description – _Please provide as detailed a video as possible, indicating topics by timestamp, etc._
 * Title
 
-Clicking Add Video willadd the video to the panel on the left.
+Clicking Add Video will add the video to the panel on the left.
 
 When all videos have been added, click Update Curriculum Details.
 
@@ -133,7 +133,7 @@ Remember to click Update Curriculum Details when you're finished editing.
 
 You must be logged in to subscribe to a curriculum.
 
-Subscribe to a curriculum by clicking on the Creator name. You will be taken to the creator's page, where you can click Subscribe on the desired curriculum.
+Subscribe to a curriculum by clicking on the Creator/Maker name. You will be taken to the creator's page, where you can click Subscribe on the desired curriculum.
 
 All curriculums you subscribe to will be listed on your user profile page.
 
